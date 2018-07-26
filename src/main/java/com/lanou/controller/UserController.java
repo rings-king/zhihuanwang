@@ -37,6 +37,9 @@ public class UserController {
         return "login";
     }
 
+    public void afd(){
+        System.out.println("afdhaobangbang");
+    }
 
 
 
